@@ -21,4 +21,4 @@ A few simple machine learning and neural network models have been created to eva
     * A linear model that was quite a bit slower in performance, but scored almost as well as newton-cg.
 
 3.  neural network
-    * A tensorflow keras model that with the best score of the three models.
+    * A tensorflow keras model that had the best score of the three models.
